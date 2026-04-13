@@ -24,11 +24,12 @@ Currently working in a highly regulated banking environment, focused on masterin
 
 ## Current Focus
 
-* Cybersecurity and defensive security engineering
-* Offensive security (Ethical hacking)
-* Cloud security (Azure-focused)
-* Network traffic analysis (Wireshark, tcpdump)
-* System hardening and secure configurations
+* Security engineering
+* AI & Machine Learning 
+* Offensive security
+* Cloud security
+* Network Security
+* Linux
 * Python for automation and security tooling
 
 ---
@@ -44,18 +45,6 @@ Currently working in a highly regulated banking environment, focused on masterin
 * Developing Advanced Automation with Red Hat Ansible Automation Platform (DO374)
 * Google Prompting Essentials
 * CompTIA Security+ & Network+ (ongoing)
-
----
-
-## Goal
-
-To become a Security Engineer by combining:
-
-* Deep Linux expertise
-* Cloud security
-* Strong networking knowledge
-* Practical security experience from real environments
-* Hands-on projects
 
 ---
 
