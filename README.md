@@ -45,6 +45,7 @@ Currently working in a highly regulated banking environment, focused on masterin
 * Developing Advanced Automation with Red Hat Ansible Automation Platform (DO374)
 * Google Prompting Essentials
 * CompTIA Security+ & Network+ (ongoing)
+* Red Hat OpenShift Administration I: Operating a Production Cluster (ongoing)
 
 ---
 
