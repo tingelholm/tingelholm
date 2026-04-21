@@ -46,7 +46,7 @@ Currently working in a highly regulated banking environment, focused on masterin
 * Google Prompting Essentials
 * CompTIA Security+ & Network+ (ongoing)
 * Red Hat OpenShift Administration I: Operating a Production Cluster (ongoing)
-
+* Harvard CS50 - Computer Science for Business
 ---
 
 ## Approach
